@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect } from 'react'
+import { ReactNode, useEffect } from 'react'
 import { usePathname } from 'next/navigation'
 
 import styles from '@/styles/Layout.module.css'
@@ -10,7 +10,11 @@ import Explorer from './Explorer'
 import Tabsbar from './Taskbar'
 import Bottombar from './Bottombar'
 
-const Layout = ({ children }) => {
+interface LayoutProps {
+  children: ReactNode;
+}
+
+const Layout = ({ children }: LayoutProps) => {
   const pathname = usePathname()
 
   useEffect(() => {

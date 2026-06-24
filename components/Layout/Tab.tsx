@@ -5,7 +5,11 @@ import Image from 'next/image';
 import { usePathname } from 'next/navigation';
 import styles from '@/styles/Tab.module.css';
 
-const Tab = ({ icon, filename, path }) => {
+const Tab = ({ icon, filename, path }: {
+  icon: string;
+  filename: string;
+  path: string;
+}) => {
   const pathname = usePathname();
 
   return (
