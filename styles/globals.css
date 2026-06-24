@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400&display=swap');
+
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Tags */
+.React {
+  border: 0.1rem solid rgb(97, 218, 251);
+}
+.React:hover {
+  background: rgba(97, 218, 251, 0.25);
+}
+
+.React-Toastify {
+  border: 0.1rem solid rgb(131, 205, 41);
+}
+.React-Toastify:hover {
+  background: rgba(131, 205, 41, 0.25);
+}
+
+.Mongoose {
+  border: 0.1rem solid rgb(67, 153, 52);
+}
+.Mongoose:hover {
+  background: rgba(67, 153, 52, 0.25);
+}
+
+.Vite {
+  border: 0.1rem solid rgb(118, 74, 188);
+}
+.Vite:hover {
+  background: rgba(118, 74, 188, 0.25);
+}
+
+.Sandbox {
+  border: 0.1rem solid rgb(82, 143, 240);
+}
+.Sandbox:hover {
+  background: rgba(82, 143, 240, 0.25);
+}
+
+.useReducer {
+  border: 0.1rem solid rgb(25, 118, 210);
+}
+.useReducer:hover {
+  background: rgba(25, 118, 210, 0.25);
+}
+
+.Gemini {
+  border: 0.1rem solid rgb(0, 209, 178);
+}
+.Gemini:hover {
+  background: rgb(0, 209, 178, 0.25);
+}
+
+.NextJS {
+  border: 2px solid rgb(0, 112, 243);
+}
+.NextJS:hover {
+  background: rgba(0, 112, 243, 0.25);
+}
+
+.TailwindCSS {
+  border: 2px solid rgb(6, 182, 212);
+}
+.TailwindCSS:hover {
+  background: rgba(6, 182, 212, 0.25);
+}
+
+.React {
+  border: 2px solid rgb(255, 65, 84);
+}
+.React:hover {
+  background: rgba(255, 65, 84, 0.25);
+}
+
+.Bcrypt {
+  border: 2px solid rgb(21, 114, 182);
+}
+.Bcrypt:hover {
+  background: rgba(21, 114, 182, 0.25);
+}
+
+.useContext {
+  border: 2px solid rgb(233, 86, 33);
+}
+.useContext:hover {
+  background: rgba(233, 86, 33, 0.25);
+}
+
+.SSLCommerz {
+  border: 2px solid rgb(255, 153, 0);
+}
+.SSLCommerz:hover {
+  background: rgba(255, 153, 0, 0.25);
+}
+
+.Nodemailer {
+  border: 2px solid rgb(204, 102, 255);
+}
+.Nodemailer:hover {
+  background: rgba(204, 102, 255, 0.25);
+}
+
+.PDF-Lib {
+  border: 2px solid rgb(150, 75, 0);
+}
+.PDF-Lib:hover {
+  background: rgba(150, 75, 0, 0.25);
+}

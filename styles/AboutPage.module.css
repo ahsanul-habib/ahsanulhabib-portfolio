@@ -1,0 +1,35 @@
+.intro {
+  margin-top: 1rem;
+  line-height: 1.7;
+}
+
+.section {
+  margin-top: 2.5rem;
+}
+
+.section h2 {
+  margin-bottom: 1rem;
+}
+
+.section ul {
+  padding-left: 1.5rem;
+}
+
+.section ul li{
+  line-height: 1.5rem;
+}
+
+.section li {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+}
+
+.orangeLink,
+.orangeLink:visited {
+  color: #f97316;
+  text-decoration: underline;
+}
+
+.orangeLink:hover {
+  color: #ea580c;
+}

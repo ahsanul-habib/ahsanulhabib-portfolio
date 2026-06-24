@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Airbnb, Hotel Booking App",
+    "image": "/airbnb.jpg",
+    "description": "A hotel booking app where people can book hotels, publish hotels and see the details of the hotel.",
+    "tags": ["NextJS", "SSLCommerz","Mongoose","PDF-Lib","React-Toastify","Nodemailer","TailwindCSS"],
+    "source_code": "https://github.com/ahsanul-habib/airbnb-hotel-booking-app",
+    "demo": "https://airbnb-hotel-booking-app.vercel.app/"
+  },
+  {
+    "id": "2",
+    "name": "Project Manager",
+    "image": "/projectmanager.jpg",
+    "description": "A frontend app to organize and classify tasks by work progress.",
+    "tags": ["React", "TailwindCSS","useReducer","useContext","Vite"],
+    "source_code": "https://github.com/ahsanul-habib/project-manager",
+    "demo": "https://project-manager-ahsanul-habib.vercel.app/"
+  },
+  {
+    "id": "3",
+    "name": "React AI Component Builder",
+    "image": "/reactcomponent.jpg",
+    "description": "A NextJS app to easily generate react components with AI by giving prompt",
+    "tags": ["NextJS","TailwindCSS","Gemini", "Sandbox"],
+    "source_code": "https://github.com/ahsanul-habib/react-component-builder",
+    "demo": "https://react-builder-ahsan.vercel.app/"
+  },
+  {
+    "id": "4",
+    "name": "MovieDB",
+    "image": "/moviedb.jpg",
+    "description": "A NextJS app that displays realtime trending and popular movies using TMDB Database API",
+    "tags": ["NextJS","TailwindCSS", "Mongoose","Bcrypt","React-Toastify"],
+    "source_code": "https://github.com/ahsanul-habib/MovieDB",
+    "demo": "https://moviedb-ahsanul-habib.vercel.app/"
+  },
+  {
+    "id": "5",
+    "name": "Expense Tracker",
+    "image": "/expensetracker.jpg",
+    "description": "A simple react vite app frontend to track money expenditure.",
+    "tags": ["React","TailwindCSS","Vite"],
+    "source_code": "https://github.com/ahsanul-habib/expense-tracker",
+    "demo": "https://expense-tracker-ahsanul-habib.vercel.app/"
+  }
+]
